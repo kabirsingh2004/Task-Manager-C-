@@ -19,7 +19,7 @@ This C++ console application serves as a Task Manager, providing users with the 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kabirsingh2004/Task-Manager-C.git
+   git clone https://github.com/kabirsingh2004/Task-Manager-Console.git
    ```
 
 2. **Compile and Run:**
